@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "987235008812",
+    "firebase_url": "https://weplay-e5d47.firebaseio.com",
+    "project_id": "weplay-e5d47",
+    "storage_bucket": "weplay-e5d47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987235008812:android:b74f11966193af7c596c89",
+        "android_client_info": {
+          "package_name": "com.example.weplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987235008812-c2dokav42o1t63fvld4nq74g1lu6cah6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weplay",
+            "certificate_hash": "f0341320a2b5f0bb19ee84f010f5d98b44c1d9c2"
+          }
+        },
+        {
+          "client_id": "987235008812-e52hglqmkitoji1ohn75stcuoi0d3nn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9vKEBd0AcGtjj4rlcAc3kj6rXu2pKYQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987235008812-e52hglqmkitoji1ohn75stcuoi0d3nn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

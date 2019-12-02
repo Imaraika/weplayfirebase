@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">weplay</string>
+    <array name="locations">
+        <item>Kicukiro</item>
+        <item>Nyarugenge</item>
+        <item>Gasabo</item>
+
+    </array>
+</resources>
