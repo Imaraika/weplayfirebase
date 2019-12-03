@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "987235008812",
-    "firebase_url": "https://weplay-e5d47.firebaseio.com",
-    "project_id": "weplay-e5d47",
-    "storage_bucket": "weplay-e5d47.appspot.com"
+    "project_number": "611858997841",
+    "firebase_url": "https://weplay-9f0cd.firebaseio.com",
+    "project_id": "weplay-9f0cd",
+    "storage_bucket": "weplay-9f0cd.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:987235008812:android:b74f11966193af7c596c89",
+        "mobilesdk_app_id": "1:611858997841:android:7040a9c91228a03d9d8e70",
         "android_client_info": {
           "package_name": "com.example.weplay"
         }
       },
       "oauth_client": [
         {
-          "client_id": "987235008812-c2dokav42o1t63fvld4nq74g1lu6cah6.apps.googleusercontent.com",
+          "client_id": "611858997841-6gut8ebdo69ra4mlldlqi1b0a9mjlnt6.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.weplay",
@@ -23,20 +23,20 @@
           }
         },
         {
-          "client_id": "987235008812-e52hglqmkitoji1ohn75stcuoi0d3nn2.apps.googleusercontent.com",
+          "client_id": "611858997841-u8amr3gfdc4s21mhp1u36fskobn01uop.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD9vKEBd0AcGtjj4rlcAc3kj6rXu2pKYQc"
+          "current_key": "AIzaSyBYYdDEEBqHd4wpNQq8i5WPYo3ynzp-GVI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "987235008812-e52hglqmkitoji1ohn75stcuoi0d3nn2.apps.googleusercontent.com",
+              "client_id": "611858997841-u8amr3gfdc4s21mhp1u36fskobn01uop.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
